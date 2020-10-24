@@ -1,0 +1,28 @@
+
+/* Base */
+
+.main{
+    background: url('../img/map.svg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+}
+
+.bg-rez-navy{
+    background-color: #001546;
+  }
+
+  .text-rez-navy{
+    color:#1b3065;
+  }
+  
+  .text-rez-primary-purple{
+    color: #5B77FE;
+  }
+
+  .text-rez-light-blue{
+    color:#9AD8FF;
+  }
+  
