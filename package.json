@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "autoprefixer": "^9.8.6",
-    "tailwindcss": "^1.9.6"
+    "tailwindcss": "^1.9.6",
+    "websocket-extensions": "^0.1.4"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^1.2.0",
