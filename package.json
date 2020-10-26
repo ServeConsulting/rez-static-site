@@ -11,8 +11,8 @@
     "lint:css": "stylelint public/css"
   },
   "dependencies": {
-    "autoprefixer": "^9.5.1",
-    "tailwindcss": "^1.0"
+    "autoprefixer": "^9.8.6",
+    "tailwindcss": "^1.9.6"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^1.2.0",
@@ -20,7 +20,7 @@
     "cross-env": "^5.2.0",
     "cssnano": "^4.1.10",
     "live-server": "^1.2.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^4.14.1",
     "postcss-cli": "^6.1.2",
     "postcss-import": "^12.0.1",
     "stylelint": "^10.0.1",
