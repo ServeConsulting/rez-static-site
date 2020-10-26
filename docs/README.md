@@ -12,6 +12,8 @@ To get started:
     yarn
     ```
 
+2. Rename /docs to /public (This is for github pages)
+
 3. Start the development server:
 
     ```bash
